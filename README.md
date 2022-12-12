@@ -34,7 +34,7 @@ Here's my screenshot of the done project.
 
 ### Links
 
-- Solution URL: [Check the solution here](https://your-solution-url.com)
+- Solution URL: [Check the solution here](https://www.frontendmentor.io/solutions/3column-preview-card-component-0onEf-9n5S)
 - Live Site URL: [Check live site here](https://m-rokon.github.io/3-col-preview-card/)
 
 ## My process
