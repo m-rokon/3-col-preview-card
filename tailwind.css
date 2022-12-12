@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+.btn {
+    @apply inline-block px-6 py-2 transition duration-300 bg-[#F2F2F2] border-2 border-[#F2F2F2] rounded-full hover:bg-transparent;
+}
+@tailwind utilities;
